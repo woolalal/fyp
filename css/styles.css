@@ -101,6 +101,18 @@ hr
 .about-container h4
 {
     font-weight: bold;
+    
+}
+
+.team-lead
+{
+    padding: 1rem 0 0;
+}
+
+
+
+.push-down
+{
     padding: 1rem 0 0.5rem;
 }
 

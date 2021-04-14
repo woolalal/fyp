@@ -85,16 +85,30 @@ hr
 }
 
 /*Documentation*/
-#documentation
+#documentation-section
 {
     padding: 7% 10%;
-    text-align: center;
+   
 }
 
-#documentation h2
+#documentation-section h2
 {
+    text-align: center;
     font-weight: bold;
+    
 }
+
+.documentation
+{
+    margin: 2rem 0 0.5rem;
+}
+
+.documentation a
+{
+    text-decoration: none;
+}
+
+
 
 /*Footer Section*/
 #footer

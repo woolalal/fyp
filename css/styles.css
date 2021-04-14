@@ -54,13 +54,33 @@ hr
     margin-left: 7rem;
 }
 
+/* About Us Section */
+#aboutus-text
+{
+    padding: 7% 15%;
+    background-color: #a7e7e8;
+}
 
-/*About Us Section*/
+.health-img
+{
+    width: 75%;
+    margin-top: 1.5rem;
+}
+
+.aboutus-container h2
+{
+    font-weight: bold;
+    padding: 1rem 0 0.5rem;
+}
+
+
+/*Our Team Section*/
 #about-us
 {
-    background-color: #a7e7e8;
+    background-color: FFF;
     padding: 7% 1%;
     text-align: center;
+    
 }
 
 #about-us h2
@@ -88,7 +108,7 @@ hr
 #documentation-section
 {
     padding: 7% 10%;
-   
+    background-color: #a7e7e8;
 }
 
 #documentation-section h2
@@ -115,7 +135,7 @@ hr
 {
     padding: 5% 10%;
     text-align: center;
-    background-color: #439899;
+    
     
 }
 
@@ -128,7 +148,7 @@ hr
 .footer-icon:hover
 {
     transition: 0.5s;
-    color: #FFF;
+    /* color: #FFF; */
     transform: scale(1.1);
 }
 

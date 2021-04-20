@@ -119,6 +119,7 @@ hr
 {
     padding: 7% 10%;
     background-color: #a7e7e8;
+   
 }
 
 #documentation-section h2
@@ -138,7 +139,16 @@ hr
     text-decoration: none;
 }
 
+.documentation h5
+{
+    text-align: center;
+}
 
+.documentation ul
+{
+    margin-top: 1rem;
+    margin-left: 3.5rem;
+}
 
 /*Footer Section*/
 #footer

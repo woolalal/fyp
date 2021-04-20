@@ -178,4 +178,9 @@ hr
     {
         margin: 0 auto;
     }
+
+    .documentation ul
+    {
+        margin: 0;
+    }
 }
